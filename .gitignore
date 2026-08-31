@@ -5,9 +5,8 @@
 bin/
 .metadata/
 .settings/
-
-# macOS
-.DS_Store
+.classpath
+.project
 
 # Arquivos temporários
 *.log
